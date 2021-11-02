@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="450dp" >
+        <ImageView
+            android:src="@drawable/logo_restauran2"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp" />
+        <TextView
+            android:textAlignment="center"
+            android:text="Silahkan login terlebih dahulu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="15dp"
+
+        android:background="@drawable/bg_gradasi"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:text="Masuk"
+            android:textAlignment="center"
+            android:textSize="25dp" />
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+        <EditText
+            android:id="@+id/txtUsername"
+            android:paddingLeft="15dp"
+            android:background="@drawable/form"
+            android:drawableStart="@drawable/ic_baseline_person_24"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Masukan username" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="15dp" />
+        <EditText
+            android:id="@+id/txtPassword"
+            android:inputType="textPassword"
+            android:paddingLeft="15dp"
+            android:background="@drawable/form"
+            android:drawableStart="@drawable/key"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Masukan Password" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="15dp" />
+
+        <Button
+            android:id="@+id/login"
+            android:background="@drawable/form"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:textColor="#033"
+            android:textStyle="bold"
+            android:layout_gravity ="center"
+            android:text="Login"
+            android:textAllCaps="false"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

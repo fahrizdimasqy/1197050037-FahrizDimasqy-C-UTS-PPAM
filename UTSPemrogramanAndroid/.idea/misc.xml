@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroid/UTSPemrogramanAndroid/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroid/UTSPemrogramanAndroid/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroid/UTSPemrogramanAndroid/app/src/main/res/layout/item_cardview_hero.xml" value="0.1" />
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroid/UTSPemrogramanAndroid/app/src/main/res/layout/item_cardview_menu.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroid/UTSPemrogramanAndroid/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroidfix/UTSPemrogramanAndroid/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/62821/Downloads/UTSPemrogramanAndroidfix/UTSPemrogramanAndroid/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/fahriz/AndroidStudioProjects/UTSPemrogramanAndroid/app/src/main/res/drawable/bg_gradasi.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/fahriz/AndroidStudioProjects/UTSPemrogramanAndroid/app/src/main/res/drawable/btn_white.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/fahriz/AndroidStudioProjects/UTSPemrogramanAndroid/app/src/main/res/drawable/form.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/fahriz/AndroidStudioProjects/UTSPemrogramanAndroid/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10461956521739131" />
+        <entry key="app/src/main/res/layout/item_cardview_menu.xml" value="0.10461956521739131" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
