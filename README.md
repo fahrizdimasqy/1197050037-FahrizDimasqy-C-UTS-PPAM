@@ -9,11 +9,12 @@ password test12345
 
 
 ### tampilan apilkasi halaman home
-![halaman_home](https://user-images.githubusercontent.com/58032217/148337815-9d7a2395-64e1-49bd-9508-4d3e20e8cb9d.png)
+![halaman_home](https://user-images.githubusercontent.com/58032217/139823079-1deff05f-6772-440d-8287-52ce809ad1de.png)
 
 
 ### tampilan aplikasi halaman detail
-![halaman_detail](https://user-images.githubusercontent.com/58032217/148337849-4d55f5d8-1621-4253-8d66-40ebcd9dca2f.png)
+![halaman_detail](https://user-images.githubusercontent.com/58032217/139823160-c79d1113-e60e-47b7-be5d-f0fd53f0e3c3.png)
+
 
 ### Fitur Logout
-![menu_logout](https://user-images.githubusercontent.com/58032217/148337907-fc63ac40-c541-4660-aaa8-9b64e576d0d3.png)
+![menu_logout](https://user-images.githubusercontent.com/58032217/139823221-6d7f5e2c-ac26-433e-a92f-86c938d0dfe7.png)
